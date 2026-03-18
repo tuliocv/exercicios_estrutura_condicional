@@ -73,10 +73,10 @@ EXS = [
     {
         "id": "Ex 4",
         "title": "Soma, média, produto, menor e maior de três inteiros",
-        "level": "Médio",
+        "level": "Difícil",
         "prompt": (
             "Escreva um programa em Java que leia três números inteiros a partir do teclado "
-            "e imprima a soma, a média, o produto, o menor e o maior desses números."
+            "e imprima a soma, a média, o produto, o menor e o maior desses números.(utilizando if)"
         )
     },
     {
